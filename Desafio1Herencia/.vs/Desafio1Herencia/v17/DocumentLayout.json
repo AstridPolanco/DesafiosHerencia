@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\desafio1herencia\\desafio1herencia\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|solutionrelative:desafio1herencia\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\desafio1herencia\\desafio1herencia\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|solutionrelative:desafio1herencia\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\desafio1herencia\\desafio1herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF754449-9266-4877-853B-D6479036436D}|Desafio1Herencia\\Desafio1Herencia.csproj|solutionrelative:desafio1herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraCientifica.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\CalculadoraCientifica.cs",
+              "RelativeDocumentMoniker": "Desafio1Herencia\\CalculadoraCientifica.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\CalculadoraCientifica.cs",
+              "RelativeToolTip": "Desafio1Herencia\\CalculadoraCientifica.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:24:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Desafio1Herencia\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Calculadora.cs",
+              "RelativeToolTip": "Desafio1Herencia\\Calculadora.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:01:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio1Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Program.cs",
+              "RelativeToolTip": "Desafio1Herencia\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:56:13.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

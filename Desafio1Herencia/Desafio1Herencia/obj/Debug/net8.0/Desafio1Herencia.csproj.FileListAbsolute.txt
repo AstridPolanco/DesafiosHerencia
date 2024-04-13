@@ -1,0 +1,15 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\bin\Debug\net8.0\Desafio1Herencia.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\bin\Debug\net8.0\Desafio1Herencia.deps.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\bin\Debug\net8.0\Desafio1Herencia.runtimeconfig.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\bin\Debug\net8.0\Desafio1Herencia.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\bin\Debug\net8.0\Desafio1Herencia.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.AssemblyInfoInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.AssemblyInfo.cs
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.sourcelink.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\refint\Desafio1Herencia.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\Desafio1Herencia.genruntimeconfig.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Herencia\Desafio1Herencia\obj\Debug\net8.0\ref\Desafio1Herencia.dll

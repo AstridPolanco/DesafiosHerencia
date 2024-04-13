@@ -1,0 +1,7 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\bin\Debug\Desafio2Interface.exe.config
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\bin\Debug\Desafio2Interface.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\bin\Debug\Desafio2Interface.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\obj\Debug\Desafio2Interface.csproj.AssemblyReference.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\obj\Debug\Desafio2Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\obj\Debug\Desafio2Interface.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio2Interface\Desafio2Interface\obj\Debug\Desafio2Interface.pdb
