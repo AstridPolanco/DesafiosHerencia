@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Desafio1Herencia.csproj",
+      "projectUniqueName": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\DesafiosHerencia\\Desafio1Herencia\\Desafio1Herencia\\Desafio1Herencia.csproj",
       "projectName": "Desafio1Herencia",
-      "projectPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\Desafio1Herencia.csproj",
+      "projectPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\DesafiosHerencia\\Desafio1Herencia\\Desafio1Herencia\\Desafio1Herencia.csproj",
       "packagesPath": "C:\\Users\\HP BLUE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Desafio1Herencia\\Desafio1Herencia\\obj\\",
+      "outputPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\DesafiosHerencia\\Desafio1Herencia\\Desafio1Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

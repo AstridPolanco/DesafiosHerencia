@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio1Herencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3ef2ae6b3ce37207a716cead39c108ae8ea077a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+009afe207436e59fba5ff19eeb8ab04c03887ca7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio1Herencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio1Herencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,9 +10,13 @@ namespace Desafio1Herencia
     {
         static void Main(string[] args)
         {
-            double n1 = 48;
-            double n2 = 20;
-            double newBase = 10;
+            Console.Write("Ingrese el primer número: ");
+            double n1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Ingrese el segundo número: ");
+            double n2 = Convert.ToDouble(Console.ReadLine());
+
+
             Calculadora calculadora = new Calculadora("Casio", "fx-50");
             double total = calculadora.Sumar(n1, n2);
             Console.WriteLine(total);
@@ -24,6 +28,9 @@ namespace Desafio1Herencia
             Console.WriteLine(cociente);
 
             CalculadoraCientifica cientifica = new CalculadoraCientifica("Xiaomi", "5642");
+            Console.Write("Ingrese la base para el logaritmo: ");
+
+            double newBase = Convert.ToDouble(Console.ReadLine());
             double potencia = cientifica.Potencia(n1, n2);
             Console.WriteLine(potencia);
             double raiz = cientifica.Raiz(n1);
